@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Миллион чувств",
+      "video": "https://www.youtube.com/embed/dZ9v9PYCWoM?si=TqY49qB3e3ivn2t3&;controls=1",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/1d/61/651d61d6-a4b6-40a0-a210-c665266f28db/cover.jpg/1200x1200bf-60.jpg",
+      "audio": "https://s2.deliciouspeaches.com/get/cuts/7f/79/7f7944f94b89a9c8d518cdc945bff312/69171260/badCurt_-_Million_chuvstv_b128f0d161.mp3",
+      "genres": [
+        {
+          "id": "хип-хоп",
+          "label": "хип-хоп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "Bad Curt",
+          "label": "Bad Curt"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Haunt",
+      "video": "https://www.youtube.com/embed/dz6YbMtj74U?si=uEt6ftbqLda7FzGP",
+      "image": "https://avatars.yandex.net/get-music-content/8871869/6a7811b9.a.25955301-1/m1000x1000?webp=false",
+      "audio": " https://cdn19.deliciouspeaches.com/get/music/20230608/zxcursed_MUPP_-_haunt_76087074.mp3",
+      "genres": [
+        {
+          "id": "хип-хоп",
+          "label": "хип-хоп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "zxcursed",
+          "label": "zxcursed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LUV",
+      "video": "https://www.youtube.com/embed/NM3gNYqBbvI?si=JH54CMpzvIqbGoUS",
+      "image": "https://assets.audiomack.com/sadness/f51b404eb7060c4b04910a08d0d7ccd5.jpeg?width=1000&height=1000&max=true",
+      "audio": "https://cdn13.deliciouspeaches.com/get/music/20190814/Rocket_-_LUV_66075681.mp3",
+      "genres": [
+        {
+          "id": "хип-хоп",
+          "label": "хип-хоп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "ROCKET",
+          "label": "ROCKET"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Hills x The Color Violet x Creepin",
+      "video": "https://www.youtube.com/embed/Pm9RqYswqpQ?si=N43SkdLX2siaPf0T",
+      "image": "https://cdns-images.dzcdn.net/images/cover/931f8c901cb9f41adccb9bd7cac181f1/1000x1000.jpg",
+      "audio": " https://cdn6.deliciouspeaches.com/get/music/20230302/The_Weeknd_x_Tory_Lanez_-_the_hills_x_creepin_x_the_color_violet_Lyrics_tiktok_mashup_75530195.mp3",
+      "genres": [
+        {
+          "id": "поп",
+          "label": "поп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "The Weeknd",
+          "label": "The Weeknd"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": " ЗВЁЗД НЕ ВЫБИРАЮТ",
+      "video": "https://www.youtube.com/embed/yJAYkL5BsF8?si=gDyFuB42eCtnY03s",
+      "image": "https://i.ytimg.com/vi/8PGStR4rj6A/maxresdefault.jpg?7857057827",
+      "audio": "https://ds2.cdn3.deliciouspeaches.com/get/music/20230714/Molodojj_Platon_nkeeei_uniqe_ARTEM_SHILOVETS_-_ZVJOZD_NE_VYBIRAYUT_76342047.mp3",
+      "genres": [
+        {
+          "id": "поп",
+          "label": "поп"
+        },
+        {
+          "id": "хип-хоп",
+          "label": "хип-хоп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "Молодой Платон ",
+          "label": "Молодой Платон "
+        },
+        {
+          "id": "nkeeei",
+          "label": "nkeeei"
+        },
+        {
+          "id": "uniqe",
+          "label": "uniqe"
+        },
+        {
+          "id": "ARTEM SHILOVETS",
+          "label": "ARTEM SHILOVETS"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "adaptive strike",
+      "video": "https://www.youtube.com/embed/7TwHK3sIjEU?si=FBu86mK5BeZjqKAm",
+      "image": "https://pic.rutubelist.ru/video/d6/1e/d61e8a5e4e106fd2e986464c804b3de8.jpg",
+      "audio": "https://ds.cdn17.deliciouspeaches.com/get/music/20220211/shadowraze_LXNER_quiizzzmeow_-_adaptive_strike_73793462.mp3",
+      "genres": [
+        {
+          "id": "рэп",
+          "label": "рэп"
+        },
+        {
+          "id": "хип-хоп",
+          "label": "хип-хоп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "shadowraze",
+          "label": "shadowraze"
+        },
+        {
+          "id": "LXNER",
+          "label": "LXNER"
+        },
+        {
+          "id": "quiizzzmeow ",
+          "label": "quiizzzmeow "
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "No Love",
+      "video": "https://www.youtube.com/embed/OggKeijBjAU?si=jNTnkDQxw-XUxwt8",
+      "image": "https://tekst-pesni.online/wp-content/uploads/2021/11/m1000x1000-3-1-800x445.jpeg",
+      "audio": " https://ds2.cdn11.deliciouspeaches.com/get/music/20211128/ADLIN_-_No_Love_73393258.mp3",
+      "genres": [
+        {
+          "id": "рэп",
+          "label": "рэп"
+        },
+        {
+          "id": "хип-хоп",
+          "label": "хип-хоп"
+        }
+      ],
+      "authors": [
+        {
+          "id": "АДЛИН",
+          "label": "АДЛИН"
+        }
+      ]
+    }
+  ]
+}
